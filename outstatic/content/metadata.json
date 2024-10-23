@@ -1,6 +1,6 @@
 {
-  "commit": "6bd70766ed32200c5abcb94b9df073cd21d4ac1b",
-  "generated": "Wed, 23 Oct 2024 09:42:51 GMT",
+  "commit": "f531741cd399bcc5460b1a22a92ccb071384e453",
+  "generated": "2024-10-23T09:43:50.865Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,8 +122,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
+        "commit": "f531741cd399bcc5460b1a22a92ccb071384e453",
+        "hash": "44641318",
         "path": "outstatic/content/posts/nothing-wrong.md"
       },
       "author": {
@@ -135,6 +135,8 @@
       "publishedAt": "2022-09-14T17:55:40.452Z",
       "slug": "nothing-wrong",
       "status": "published",
+      "tags": [
+      ],
       "title": "Nothing is wrong. Everything is perfect"
     }
   ]
