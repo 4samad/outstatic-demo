@@ -1,6 +1,6 @@
 {
-  "commit": "532e607deeefddefeea27800df8df1a3fe32efa4",
-  "generated": "2024-10-23T03:34:53.797Z",
+  "commit": "60d81970525294d4f24a867df35923c0bf89a5fc",
+  "generated": "2024-10-23T03:35:37.974Z",
   "metadata": [
     {
       "__outstatic": {
@@ -118,26 +118,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "2555063350",
-        "path": "outstatic/content/posts/how-good-you-are.md"
-      },
-      "author": {
-        "name": "AbdulSamad",
-        "picture": "https://avatars.githubusercontent.com/u/47020656?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-10-23T03:54:12.314Z",
-      "slug": "how-good-you-are",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "How good you are"
     },
     {
       "__outstatic": {
