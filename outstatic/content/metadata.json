@@ -1,25 +1,7 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-10-23T03:23:28.977Z",
+  "commit": "532e607deeefddefeea27800df8df1a3fe32efa4",
+  "generated": "2024-10-23T03:25:33.478Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
@@ -156,6 +138,24 @@
       "tags": [
       ],
       "title": "How good you are"
+    },
+    {
+      "__outstatic": {
+        "commit": "532e607deeefddefeea27800df8df1a3fe32efa4",
+        "hash": "1583523580",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
