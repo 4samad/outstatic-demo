@@ -1,6 +1,6 @@
 {
-  "commit": "cfcf1f8c2eeeac176032de527d21019ff9f7a318",
-  "generated": "2024-10-23T09:45:05.819Z",
+  "commit": "85db9c8e434968c38746bac997c2c02cf0ded545",
+  "generated": "2024-10-23T10:58:54.884Z",
   "metadata": [
     {
       "__outstatic": {
@@ -32,24 +32,6 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "07c158a6935b067013f2d85b9415a69209a6781a",
-        "hash": "141580983",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -142,6 +124,24 @@
         }
       ],
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "85db9c8e434968c38746bac997c2c02cf0ded545",
+        "hash": "2370941859",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
