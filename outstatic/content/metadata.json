@@ -1,6 +1,6 @@
 {
-  "commit": "f531741cd399bcc5460b1a22a92ccb071384e453",
-  "generated": "2024-10-23T09:43:50.865Z",
+  "commit": "cfcf1f8c2eeeac176032de527d21019ff9f7a318",
+  "generated": "2024-10-23T09:45:01.319Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,8 +122,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f531741cd399bcc5460b1a22a92ccb071384e453",
-        "hash": "44641318",
+        "commit": "cfcf1f8c2eeeac176032de527d21019ff9f7a318",
+        "hash": "3865489429",
         "path": "outstatic/content/posts/nothing-wrong.md"
       },
       "author": {
@@ -136,6 +136,10 @@
       "slug": "nothing-wrong",
       "status": "published",
       "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        }
       ],
       "title": "Nothing is wrong. Everything is perfect"
     }
